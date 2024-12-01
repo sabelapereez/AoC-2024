@@ -1,8 +1,12 @@
-# AoC 2024 
-### Codes used to resolve the [Advent of Code of 2024](https://adventofcode.com/2024) in C.
-I'm attempting this challenge for the first time (hopefully the first of many) and sharing my answers here. Any recommendations or improvements are welcome, since this is just a way to motivate me to program.
+# AoC 2024 :christmas_tree:
+## Codes used to resolve the [Advent of Code 2024](https://adventofcode.com/2024) in C.
+### What is AoC?
+Advent of Code is an annual set of programming challenges structured like an Advent calendar. From December 1st to December 25th there will be an open challenge for anyone to solve in any programming language.
 
-Good luck to anyone who tries it and Merry Christmas.
+### This repository
+I'm attempting this challenge for the first time (hopefully the first of many) and sharing my answers here with anyone who wants to see them. Any recommendations or improvements are welcome, as this is just a way to motivate me to code and celebrate my favorite time of year a little differently.
+
+Good luck to anyone who tries it and Merry Christmas!
 
                                                    ._...._.
                            \ .*. /                .::o:::::.  
